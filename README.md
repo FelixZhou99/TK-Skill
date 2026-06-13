@@ -1,0 +1,4 @@
+Tiktok东南亚五国计价skill
+claude code制作，仅保证claude code使用效果，其他agent可以自行尝试一下
+所有涉及到的tk相关的价格都是最新的，可以放心当做一个大致的参考
+祝所有人东南亚大卖！
